@@ -2,9 +2,6 @@
 
 function schrodinger_equation
 
-close all
-clc
-
 psi0 = [0;1];
 hbar = 1;
 % t = 0:1:100;
