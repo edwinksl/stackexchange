@@ -1,4 +1,4 @@
-% Code for http://stackoverflow.com/a/37982813/486919
+% Code for https://stackoverflow.com/a/37982813/486919
 
 function schrodinger_equation
 
