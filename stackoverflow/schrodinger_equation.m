@@ -5,7 +5,7 @@ function schrodinger_equation
   psi0 = [0;1];
   hbar = 1;
   t = [0 100];
-  [T,psi] = ode15s(@(t,psi)dpsi(t,psi,hbar),t,psi0);
+  [T,psi] = ode45(@(t,psi)dpsi(t,psi,hbar),t,psi0);
 
   for i = 1:length(psi0)
     figure
