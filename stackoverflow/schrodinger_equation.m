@@ -12,6 +12,7 @@ function schrodinger_equation
     plot(T,real(psi(:,i)),T,imag(psi(:,i)))
     xlabel('t')
     ylabel('Re(\psi) or Im(\psi)')
+    title(['\psi_0 = ' num2str(psi0(i))])
     legend('Re(\psi)','Im(\psi)','Location','best')
   end
 
