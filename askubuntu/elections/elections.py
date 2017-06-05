@@ -17,4 +17,4 @@ vote_count_post = soup.select('.vote-count-post')
 votes = [i.string for i in vote_count_post]
 
 table = dict(zip(usernames, votes))
-table
+print(table)
