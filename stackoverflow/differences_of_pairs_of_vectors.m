@@ -1,4 +1,4 @@
-% Code for http://stackoverflow.com/a/37773307/486919
+% Code for https://stackoverflow.com/a/37773307/486919
 
 close all
 clc
