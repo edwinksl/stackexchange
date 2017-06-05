@@ -16,5 +16,6 @@ def main(target):
         new_name = os.path.join(dir_path, d)
         os.rename(old_name, new_name)
 
+
 if __name__ == '__main__':
     main(sys.argv[1])
