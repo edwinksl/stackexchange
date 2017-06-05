@@ -1,4 +1,4 @@
-% Code for https://codereview.stackexchange.com/questions/160735/removing-undesired-points-from-a-mesh
+% Code for https://codereview.stackexchange.com/a/160897/3865
 
 clear
 close all
