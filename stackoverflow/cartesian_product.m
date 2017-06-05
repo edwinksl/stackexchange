@@ -1,4 +1,4 @@
-% Code for http://stackoverflow.com/a/38637302/486919
+% Code for https://stackoverflow.com/a/38637302/486919
 
 clear
 close all
