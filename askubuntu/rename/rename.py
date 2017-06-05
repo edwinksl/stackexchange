@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Code for http://askubuntu.com/a/813787/15003
+# Code for https://askubuntu.com/a/813787/15003
 
 from datetime import datetime
 import os
